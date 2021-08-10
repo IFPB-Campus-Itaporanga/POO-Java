@@ -1,5 +1,5 @@
 # Programação Orientada a Objetos
-## Curso Técnico de Informática Integrado ao Ensino Média
+## Curso Técnico de Informática Integrado ao Ensino Médio
 ### Turma 2021.1
 
 **Professores:** Romeryto Lira e Douglas Xavier
